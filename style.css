@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.play-container {
+
+}
+
+.points-container {
+    display: flex;
+    border: 2px red solid;
+}
